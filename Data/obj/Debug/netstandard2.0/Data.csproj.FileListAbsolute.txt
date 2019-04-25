@@ -1,0 +1,9 @@
+C:\Users\508Games\source\repos\Recipes\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\508Games\source\repos\Recipes\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\508Games\source\repos\Recipes\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\508Games\source\repos\Recipes\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\508Games\source\repos\Recipes\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\508Games\source\repos\Recipes\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\508Games\source\repos\Recipes\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\508Games\source\repos\Recipes\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\508Games\source\repos\Recipes\Data\obj\Debug\netstandard2.0\Data.pdb

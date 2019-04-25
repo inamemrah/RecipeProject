@@ -1,0 +1,17 @@
+C:\Users\508Games\source\repos\Recipes\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Users\508Games\source\repos\Recipes\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Users\508Games\source\repos\Recipes\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Users\508Games\source\repos\Recipes\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Users\508Games\source\repos\Recipes\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Users\508Games\source\repos\Recipes\Api\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\508Games\source\repos\Recipes\Api\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Users\508Games\source\repos\Recipes\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Users\508Games\source\repos\Recipes\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\508Games\source\repos\Recipes\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Users\508Games\source\repos\Recipes\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Users\508Games\source\repos\Recipes\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Users\508Games\source\repos\Recipes\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Users\508Games\source\repos\Recipes\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\508Games\source\repos\Recipes\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Users\508Games\source\repos\Recipes\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Users\508Games\source\repos\Recipes\Api\obj\Debug\netcoreapp2.1\Api.pdb
