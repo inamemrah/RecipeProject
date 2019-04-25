@@ -11820,11 +11820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\508Games\\source\\repos\\Recipes\\Api\\Api.csproj",
+      "projectUniqueName": "C:\\Users\\508Games\\Desktop\\RecipeProject\\Api\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "C:\\Users\\508Games\\source\\repos\\Recipes\\Api\\Api.csproj",
+      "projectPath": "C:\\Users\\508Games\\Desktop\\RecipeProject\\Api\\Api.csproj",
       "packagesPath": "C:\\Users\\508Games\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\508Games\\source\\repos\\Recipes\\Api\\obj\\",
+      "outputPath": "C:\\Users\\508Games\\Desktop\\RecipeProject\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11843,8 +11843,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\508Games\\source\\repos\\Recipes\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\508Games\\source\\repos\\Recipes\\Data\\Data.csproj"
+            "C:\\Users\\508Games\\Desktop\\RecipeProject\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\508Games\\Desktop\\RecipeProject\\Data\\Data.csproj"
             }
           }
         }

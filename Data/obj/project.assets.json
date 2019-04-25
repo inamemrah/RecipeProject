@@ -2578,11 +2578,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\508Games\\source\\repos\\Recipes\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\508Games\\Desktop\\RecipeProject\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\508Games\\source\\repos\\Recipes\\Data\\Data.csproj",
+      "projectPath": "C:\\Users\\508Games\\Desktop\\RecipeProject\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\508Games\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\508Games\\source\\repos\\Recipes\\Data\\obj\\",
+      "outputPath": "C:\\Users\\508Games\\Desktop\\RecipeProject\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

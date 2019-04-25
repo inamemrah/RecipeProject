@@ -3,8 +3,6 @@ using Data.Entity;
 using Data.Interface;
 using Microsoft.AspNetCore.Mvc;
 using System;
-using System.Collections.Generic;
-using System.Transactions;
 
 namespace Api.Controllers
 {
@@ -37,13 +35,27 @@ namespace Api.Controllers
         [HttpPost("all")]
         public ActionResult GetRecipe()
         {
-            return Ok(_recipeRepository.GetRecipes());
+            try
+            {
+                return Ok(_recipeRepository.GetRecipes());
+            }
+            catch (Exception)
+            {
+                return StatusCode(500);
+            }
         }
 
         [HttpGet("filter/categories")]
         public ActionResult GetAllCategory()
         {
-            return Ok(_categoryRepository.GetCategories());
+            try
+            {
+                return Ok(_categoryRepository.GetCategories());
+            }
+            catch (Exception)
+            {
+                return StatusCode(500);
+            }
         }
 
         [HttpPost("add")]
@@ -60,8 +72,7 @@ namespace Api.Controllers
             }
             catch (Exception)
             {
-
-                throw;
+                return StatusCode(500);
             }
             
         }
