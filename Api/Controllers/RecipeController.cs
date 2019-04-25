@@ -37,7 +37,11 @@ namespace Api.Controllers
         {
             try
             {
-                return Ok(_recipeRepository.GetRecipes());
+                var result = _recipeRepository.GetRecipes();
+                if (result == null)
+                    return NotFound("No recipes found");
+
+                return Ok(result);
             }
             catch (Exception)
             {
@@ -50,7 +54,11 @@ namespace Api.Controllers
         {
             try
             {
-                return Ok(_categoryRepository.GetCategories());
+                var result = _categoryRepository.GetCategories();
+                if (result == null)
+                    return NotFound("No categories found ");
+
+                return Ok(result);
             }
             catch (Exception)
             {
@@ -61,6 +69,10 @@ namespace Api.Controllers
         [HttpPost("add")]
         public ActionResult AddRecipe([FromBody] AddRecipeModel model)
         {
+            if(model == null)
+            {
+                return BadRequest("Wrong Json Object");
+            }
             try
             {
                 int recipeId = AddRecipes(model);
